@@ -24,9 +24,15 @@ The model predicts the probability that a transaction is fraudulent. The probabi
 | 60% and above | High |
 
 
+
+<img width="707" height="473" alt="9e8c81d1-459c-4903-b0ee-02f9348ca831" src="https://github.com/user-attachments/assets/e80ab291-3828-44bb-9dfd-6a4707ebd08d" />
+
+
 ## Model Used
 
 The project uses a `RandomForestClassifier` with class balancing. This is suitable for fraud detection because the target variable is highly imbalanced.
+<img width="485" height="334" alt="image" src="https://github.com/user-attachments/assets/bb162de2-79f7-4c9d-88db-3df3b9871cb6" />
+
 
 ## Key Outputs
 
